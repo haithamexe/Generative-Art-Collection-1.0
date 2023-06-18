@@ -25,7 +25,7 @@ you can move to the sketches file and run the following:
 
 1.1 - npm i (wait for modules to be downloaded)
 1.1.1 - npm install @ffmpeg-installer/ffmpeg --global
-1.2 - npx canvas-sketch-cli sketch-01 --output=output-0 --stream 
+1.2 - npx canvas-sketch-cli sketch-00 --output=output-0 --stream 
 // for running the server:  npx canvas-sketch-cli sketch-(//the choosen sketch) --output=output-0 --stream
 // visit the generated url in terminal to open the visual pages 
 
