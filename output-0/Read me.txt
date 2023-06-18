@@ -1,0 +1,1 @@
+snapshoots directory, if deleted it needs to be created again
